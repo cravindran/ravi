@@ -1,5 +1,5 @@
-n=int(input())
-if(n%2==0):
+o=int(input())
+if(o%2==0):
   print("Even")
 else:
   print("Odd")
